@@ -1,7 +1,7 @@
 $(function(){
 
-  var name = window.location.href;            //  http://localhost/sdn-sinema/sample.php?filmName=the+example
-  var url_array = name.split("?");            //  [0] => {http://localhost/sdn-sinema/sample.php}, [1]=>{filmName=the+example}
+  var name = window.location.href;            //  http://localhost/sinefil.php?filmName=the+example
+  var url_array = name.split("?");            //  [0] => {http://localhost/sinefil.php}, [1]=>{filmName=the+example}
   var getmoviename = url_array[1].split("="); //  [0] => {filmName}, [1] => {the+example}
   var moviename = getmoviename[1];            //  the+example
 

@@ -1,0 +1,10 @@
+{
+  "name": "Sinefil",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Cinephile",
+  "browser_action": {
+    "default_icon": "sinefil.png",
+    "default_popup": "sinefil.html"
+  }
+}

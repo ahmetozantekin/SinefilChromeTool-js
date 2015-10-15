@@ -7,4 +7,4 @@ posterini, yılını ve yönetmenini anlık gösteren tüm zamanların en gereks
 Sinefilin halinden sinefil anlar.
 
 
-![cine](https://d13yacurqjgara.cloudfront.net/users/60166/screenshots/340683/origami_yoda.jpg)
+![cine](http://oi60.tinypic.com/2agjme.jpg)
